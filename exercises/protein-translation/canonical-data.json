@@ -341,7 +341,7 @@
           }
         },
         {
-          "uuid": "9d73899f-e68e-4291-b1e2-7bf87c00f024",
+          "uuid": "43945cf7-9968-402d-ab9f-b8a28750b050",
           "description": "Incomplete RNA sequence can translate if valid until a STOP codon",
           "comments": [
             "It's up to a track how to behave when a sequence is incomplete.  ",
